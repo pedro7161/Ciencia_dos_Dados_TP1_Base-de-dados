@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T13:22:13.234Z" agent="5.0 (Windows)" etag="OSsGZTij0wO6O1_0N-gd" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-02T13:24:15.244Z" agent="5.0 (Windows)" etag="gJ-2GR4TtRc9Slubqo3P" version="17.4.0" type="github">
   <diagram id="_O00fU22G__8wHqbWCPV" name="Page-1">
     <mxGraphModel dx="1560" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="220" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fl5BDDIY00m3_fIH6vyA-46" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fl5BDDIY00m3_fIH6vyA-6" target="Fl5BDDIY00m3_fIH6vyA-11">
+        <mxCell id="Fl5BDDIY00m3_fIH6vyA-46" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="Fl5BDDIY00m3_fIH6vyA-6" target="Fl5BDDIY00m3_fIH6vyA-11">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-40" y="330" as="sourcePoint" />
             <mxPoint x="60" y="230" as="targetPoint" />
@@ -106,8 +106,11 @@
             <mxPoint x="380" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Fl5BDDIY00m3_fIH6vyA-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="Fl5BDDIY00m3_fIH6vyA-70" target="Fl5BDDIY00m3_fIH6vyA-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fl5BDDIY00m3_fIH6vyA-70" value="&lt;div&gt;credito&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="414" y="180" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
