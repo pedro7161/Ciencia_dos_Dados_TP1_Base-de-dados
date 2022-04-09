@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T19:33:46.176Z" agent="5.0 (Windows)" etag="5E-owCmwkrhBItbBaoYz" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T19:34:17.249Z" agent="5.0 (Windows)" etag="fQ7gAVM5jzmBuAhdw8IS" version="17.4.1" type="github" pages="2">
   <diagram id="_O00fU22G__8wHqbWCPV" name="DEA">
     <mxGraphModel dx="3076" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -898,7 +898,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aJ6TjT4hfrBI15P6uJTK-1" value="updated_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="776" y="-390" width="80.5" height="40" as="geometry" />
+          <mxGeometry x="780" y="-480" width="80.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nvBEuW1P6FxTx1iLDKlS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aJ6TjT4hfrBI15P6uJTK-2" target="Fl5BDDIY00m3_fIH6vyA-13">
           <mxGeometry relative="1" as="geometry">
@@ -910,8 +910,11 @@
         <mxCell id="aJ6TjT4hfrBI15P6uJTK-2" value="&amp;nbsp;created_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="770" y="-160" width="80.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rRxD9_A7f7klOC7c6fwI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aJ6TjT4hfrBI15P6uJTK-3" target="Fl5BDDIY00m3_fIH6vyA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aJ6TjT4hfrBI15P6uJTK-3" value="work_phone_number" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-190" width="130.5" height="40" as="geometry" />
+          <mxGeometry x="860" y="-410" width="127" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
