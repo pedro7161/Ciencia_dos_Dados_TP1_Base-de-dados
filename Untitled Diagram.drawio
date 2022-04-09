@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T17:25:38.183Z" agent="5.0 (Windows)" etag="Tru0KZZltcseN0LnWXA7" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T18:09:30.593Z" agent="5.0 (Windows)" etag="jlSR5gZNti9qZRX1oafP" version="17.4.1" type="github" pages="2">
   <diagram id="_O00fU22G__8wHqbWCPV" name="DEA">
     <mxGraphModel dx="2324" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -304,11 +304,38 @@
         <mxCell id="srv9nVdUo2mAc9PIGWYw-44" value="Has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-40" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_2jnUE636_eacOBH81PL-1" value="id_card_type" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSlCoCirNUHwtVQttNUC-1" value="card_type_designation" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-690" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zq2iSEI6xIUaXsMFaVbf-1" value="created_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="67G7FwIWzePk0SoeQltz-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zq2iSEI6xIUaXsMFaVbf-1" target="gVsfr3qRTq61EtLtWJ68-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="20" as="sourcePoint" />
+            <mxPoint x="-440" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67G7FwIWzePk0SoeQltz-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2jnUE636_eacOBH81PL-1" target="gVsfr3qRTq61EtLtWJ68-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-540.0000000000052" y="30" as="sourcePoint" />
+            <mxPoint x="-430" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67G7FwIWzePk0SoeQltz-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSlCoCirNUHwtVQttNUC-1" target="gVsfr3qRTq61EtLtWJ68-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490.00000000000523" y="-60" as="sourcePoint" />
+            <mxPoint x="-380" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="TmMlykArN1qiUsdlGXtu" name="Modelo Relacional">
-    <mxGraphModel dx="2249" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
