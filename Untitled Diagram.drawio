@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T18:11:39.779Z" agent="5.0 (Windows)" etag="vrS37IlfgFC7oR0fCtls" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T18:13:07.178Z" agent="5.0 (Windows)" etag="usE8-7Pu4Ak4Rc_F06y1" version="17.4.1" type="github" pages="2">
   <diagram id="_O00fU22G__8wHqbWCPV" name="DEA">
-    <mxGraphModel dx="2324" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3151" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,14 +334,23 @@
         <mxCell id="67G7FwIWzePk0SoeQltz-4" value="id_card" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="-680" y="180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="67G7FwIWzePk0SoeQltz-5" value="card_type_designation" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="67G7FwIWzePk0SoeQltz-5" value="card_number" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-680" y="300" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="67G7FwIWzePk0SoeQltz-6" value="created_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="380" width="100" height="40" as="geometry" />
+        <mxCell id="67G7FwIWzePk0SoeQltz-6" value="card_pin_number" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVaEWat1iQ-KZ4AbZz4k-1" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;id_card_type&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-670" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yz-KNoS1R4FpbYdqpQV4-1" value="created_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="330" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yz-KNoS1R4FpbYdqpQV4-2" value="valid_until" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="410" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYzTBlgHJZyz4Ko3UQSY-1" value="updated_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="390" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
