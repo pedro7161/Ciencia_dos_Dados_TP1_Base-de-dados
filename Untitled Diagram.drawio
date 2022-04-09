@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T19:46:38.686Z" agent="5.0 (Windows)" etag="zxpxktl9qJutucNMczIg" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T19:48:05.594Z" agent="5.0 (Windows)" etag="BUru684CYtD9UrUy6Tnw" version="17.4.1" type="github" pages="2">
   <diagram id="_O00fU22G__8wHqbWCPV" name="DEA">
     <mxGraphModel dx="3076" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -989,6 +989,24 @@
             <mxPoint x="-30" y="-429" as="sourcePoint" />
             <mxPoint x="-30" y="69.99999999999977" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jG0sJwUBF1cUidtDyQ9F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9fUrWrtK0b1r-2QpupMu-1" target="Fl5BDDIY00m3_fIH6vyA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fUrWrtK0b1r-2QpupMu-1" value="created_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="-160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jG0sJwUBF1cUidtDyQ9F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KrUaea_CSOvTcW37N8yW-1" target="Fl5BDDIY00m3_fIH6vyA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KrUaea_CSOvTcW37N8yW-1" value="account_type_designation" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="-220" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jG0sJwUBF1cUidtDyQ9F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVRc6RLTAl4Bb_kNosYx-1" target="Fl5BDDIY00m3_fIH6vyA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVRc6RLTAl4Bb_kNosYx-1" value="id_account_type" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-468" y="-160" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
