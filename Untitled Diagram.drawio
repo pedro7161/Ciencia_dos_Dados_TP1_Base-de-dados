@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T16:33:53.787Z" agent="5.0 (Windows)" etag="mYnyxQCUID8R_AmZzB6U" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T16:38:40.810Z" agent="5.0 (Windows)" etag="6sChknHGc_ezYzdV8-4H" version="17.4.1" type="github" pages="2">
   <diagram id="_O00fU22G__8wHqbWCPV" name="DEA">
-    <mxGraphModel dx="2249" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,11 +109,11 @@
             <mxPoint x="380" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fl5BDDIY00m3_fIH6vyA-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Fl5BDDIY00m3_fIH6vyA-70" target="Fl5BDDIY00m3_fIH6vyA-67" edge="1">
+        <mxCell id="Fl5BDDIY00m3_fIH6vyA-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=ERoneToMany;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="srv9nVdUo2mAc9PIGWYw-29" target="Fl5BDDIY00m3_fIH6vyA-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fl5BDDIY00m3_fIH6vyA-70" value="Credit" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1043" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="970" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gVsfr3qRTq61EtLtWJ68-1" value="CardType" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-440" width="100" height="40" as="geometry" />
@@ -240,6 +240,12 @@
         </mxCell>
         <mxCell id="srv9nVdUo2mAc9PIGWYw-27" value="Needs" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="-10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="srv9nVdUo2mAc9PIGWYw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="srv9nVdUo2mAc9PIGWYw-29" target="Fl5BDDIY00m3_fIH6vyA-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srv9nVdUo2mAc9PIGWYw-29" value="Requires" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
