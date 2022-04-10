@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T09:06:52.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="o2n1mTknzDtbk1_W1jmv" version="17.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-10T09:10:16.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="6mYUneYBoEclvND4tx-d" version="17.4.2" type="github" pages="2">
   <diagram id="_O00fU22G__8wHqbWCPV" name="DEA">
     <mxGraphModel dx="2748" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1304,7 +1304,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TmMlykArN1qiUsdlGXtu" name="Modelo Relacional">
-    <mxGraphModel dx="2500" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
